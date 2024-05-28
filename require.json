@@ -1,0 +1,10 @@
+{
+    "tools": {
+        "tailwind-css": true,
+        "sentry": true,
+        "nextjs": true,
+        "framer-motion": true,
+        "swagger-ui": true,
+        "aceternity-ui": true
+    }
+}
