@@ -1,10 +1,15 @@
 {
     "tools": {
-        "tailwind-css": true,
+        "tailwind": {
+            "tailwind-css": "tailwind.config.js",
+            "tailwindcss-animate": "styles/tailwind.css"
+        },
         "sentry": true,
         "nextjs": true,
         "framer-motion": true,
         "swagger-ui": true,
-        "aceternity-ui": true
+        "aceternity-ui": true,
+        "mini-svg-data-uri": true,
+        "next-themes": true
     }
 }
